@@ -1,0 +1,65 @@
+.outerBox{
+    width: 50%;
+    height: auto;
+    background-color: #555;
+    margin-top: 100px;
+    margin-left: 40px;
+overflow: hidden;
+}
+input{
+    margin-top: 50px !important;
+    width:60% !important;
+    height: 40px; 
+    background-color: #ebfffc;
+    color: #555;
+    border-radius: 30px;
+    font-size: 18px;
+    border: 0;
+    outline: 0;
+   
+    margin-left: 62px!important;
+    padding: 40px,35px;
+    text-align: center;
+    font-size: 18px!important;
+    
+}  
+
+
+button{
+    background-color: #ebfffc;
+     height: 40px;
+     width: 60px;
+     border-radius: 30px !important;
+      
+     cursor: pointer;
+     border: 0;
+    outline: 0;
+}
+
+todoList{
+    height: auto; 
+    background-color: black;
+    width: 70%;
+    margin-top: 20px;
+    
+}
+.list{
+
+   
+   
+}
+li{
+    background-color: #ebfffc !important;
+   margin-top: 10px;
+   cursor: pointer;
+width: 70%;
+height: auto;
+padding: 4px 9px;
+
+}
+
+.done{
+   text-decoration: line-through;
+   background-color: grey;
+
+}
